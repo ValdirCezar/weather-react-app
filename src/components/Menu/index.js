@@ -33,10 +33,10 @@ const styles = StyleSheet.create({
     borderBottomRightRadius: 30,
     elevation: 25,
     shadowColor: '#000',
-    shadowOpacity: 0.6,
+    shadowOpacity: 0.3,
     shadowOffset: {
-      height: 10,
-      width: 10
+      height: 8,
+      width: 8
     }
   }
 });
