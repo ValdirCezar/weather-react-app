@@ -28,7 +28,8 @@ const styles = StyleSheet.create({
     height: "55%",
     alignContent: 'center',
     alignItems: 'center',
-    top: 25
+    top: 25,
+    borderRadius: 9
   },
   date: {
     color: "#FFF",
